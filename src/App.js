@@ -18,6 +18,7 @@ function App() {
         >
           samuelshang Learn github actions
         </a>
+        <h2>test</h2>
       </header>
     </div>
   );
